@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent" android:layout_height="match_parent">
+    <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_marginLeft="84dp" android:layout_marginTop="50dp" android:layout_marginRight="84dp" android:layout_marginBottom="70dp">
+        <LinearLayout android:layout_gravity="center" android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="0dp" android:layout_weight="1">
+            <TextView android:textSize="16dp" android:gravity="center" android:layout_gravity="center_vertical" android:id="@+id/tv_time_1" android:layout_width="64dp" android:layout_height="32dp" android:layout_marginRight="24dp" android:text="0" style="@style/btnType"/>
+            <FrameLayout android:layout_gravity="center_vertical" android:id="@+id/seekBar1" android:background="@drawable/thanh_setting" android:layout_width="0dp" android:layout_height="32dp" android:layout_weight="1">
+                <View android:id="@+id/v1" android:background="@drawable/ball_blue" android:layout_width="32dp" android:layout_height="32dp"/>
+            </FrameLayout>
+        </LinearLayout>
+        <LinearLayout android:layout_gravity="center" android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="0dp" android:layout_weight="1">
+            <TextView android:textSize="16dp" android:gravity="center" android:layout_gravity="center_vertical" android:id="@+id/tv_time_2" android:layout_width="64dp" android:layout_height="32dp" android:layout_marginRight="24dp" android:text="0" style="@style/btnType"/>
+            <FrameLayout android:layout_gravity="center_vertical" android:id="@+id/seekBar2" android:background="@drawable/thanh_setting" android:layout_width="0dp" android:layout_height="32dp" android:layout_weight="1">
+                <View android:id="@+id/v2" android:background="@drawable/ball_blue" android:layout_width="32dp" android:layout_height="32dp"/>
+            </FrameLayout>
+        </LinearLayout>
+        <LinearLayout android:layout_gravity="center" android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="0dp" android:layout_weight="1">
+            <TextView android:textSize="16dp" android:gravity="center" android:layout_gravity="center_vertical" android:id="@+id/tv_time_3" android:layout_width="64dp" android:layout_height="32dp" android:layout_marginRight="24dp" android:text="0" style="@style/btnType"/>
+            <FrameLayout android:layout_gravity="center_vertical" android:id="@+id/seekBar3" android:background="@drawable/thanh_setting" android:layout_width="0dp" android:layout_height="32dp" android:layout_weight="1">
+                <View android:id="@+id/v3" android:background="@drawable/ball_blue" android:layout_width="32dp" android:layout_height="32dp"/>
+            </FrameLayout>
+        </LinearLayout>
+        <LinearLayout android:layout_gravity="center" android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="0dp" android:layout_weight="1">
+            <TextView android:textSize="16dp" android:gravity="center" android:layout_gravity="center_vertical" android:id="@+id/tv_time_4" android:layout_width="64dp" android:layout_height="32dp" android:layout_marginRight="24dp" android:text="0" style="@style/btnType"/>
+            <FrameLayout android:layout_gravity="center_vertical" android:id="@+id/seekBar4" android:background="@drawable/thanh_setting" android:layout_width="0dp" android:layout_height="32dp" android:layout_weight="1">
+                <View android:id="@+id/v4" android:background="@drawable/ball_blue" android:layout_width="32dp" android:layout_height="32dp"/>
+            </FrameLayout>
+        </LinearLayout>
+        <LinearLayout android:layout_gravity="center" android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="0dp" android:layout_weight="1">
+            <TextView android:textSize="16dp" android:gravity="center" android:layout_gravity="center_vertical" android:id="@+id/tv_time_5" android:layout_width="64dp" android:layout_height="32dp" android:layout_marginRight="24dp" android:text="0" style="@style/btnType"/>
+            <FrameLayout android:layout_gravity="center_vertical" android:id="@+id/seekBar5" android:background="@drawable/thanh_setting" android:layout_width="0dp" android:layout_height="32dp" android:layout_weight="1">
+                <View android:id="@+id/v5" android:background="@drawable/ball_blue" android:layout_width="32dp" android:layout_height="32dp"/>
+            </FrameLayout>
+        </LinearLayout>
+    </LinearLayout>
+    <LinearLayout android:layout_gravity="bottom|center_vertical|center_horizontal|center" android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="16dp">
+        <TextView android:textSize="20dp" android:gravity="center" android:id="@+id/btn_ok" android:background="@drawable/btn_off" android:layout_width="100dp" android:layout_height="42dp" android:text="OK" style="@style/btnType"/>
+        <TextView android:textSize="20dp" android:gravity="center" android:id="@+id/btn_back" android:background="@drawable/btn_off" android:layout_width="100dp" android:layout_height="42dp" android:layout_marginLeft="50dp" android:text="BACK" style="@style/btnType"/>
+    </LinearLayout>
+</FrameLayout>

@@ -1,0 +1,80 @@
+Signature-Version: 1.0
+Created-By: 1.0 (Android)
+SHA1-Digest-Manifest: THD64axah9KhvP+UTBu36PrCUTM=
+X-Android-APK-Signed: 2
+
+Name: AndroidManifest.xml
+SHA1-Digest: DzaE20AeUGkf9QIrmyDvWp9ovB8=
+
+Name: classes.dex
+SHA1-Digest: SzEJvbHgB4TgndNpR4mcUiqK+G4=
+
+Name: res/drawable-xhdpi-v4/ball_blue.png
+SHA1-Digest: hhne8xxIHnwsOsC5D8Xa8e1s+N8=
+
+Name: res/drawable-xhdpi-v4/bg_main.jpg
+SHA1-Digest: 6udUbny4BDUWC/1OTwXXdvZUG28=
+
+Name: res/drawable-xhdpi-v4/icon.png
+SHA1-Digest: NkTlbr/m7YKYAQnFJjqTr7zvzu8=
+
+Name: res/drawable/bg.xml
+SHA1-Digest: jNIBiHRMVlPPnO3nEdDC1SzZCUY=
+
+Name: res/drawable/btn_bg.xml
+SHA1-Digest: mD6FlUqOrM2IoXWd0L178YuilFA=
+
+Name: res/drawable/btn_off.xml
+SHA1-Digest: AyHCfd2OZpgV5JykrKeAJmjajrE=
+
+Name: res/drawable/btn_on.xml
+SHA1-Digest: j95jWiXw+PJ/A9WzSaycy5W9E0Q=
+
+Name: res/drawable/btn_text.xml
+SHA1-Digest: An+nlqMv7laHpAn+fWS0yNo0wiM=
+
+Name: res/drawable/point.xml
+SHA1-Digest: /DRZZMfXWFd9AMFFoVfypfrVSjQ=
+
+Name: res/drawable/thanh_setting.xml
+SHA1-Digest: Fey1TWR462zzcJUUQ3WCA0n1pWI=
+
+Name: res/layout/activity_main.xml
+SHA1-Digest: ItsHQd+jHn0ueOCgUpt8yUQUQ98=
+
+Name: res/layout/setting_view.xml
+SHA1-Digest: JOWH9rtu/1tBnAt9smxXtk+NF5M=
+
+Name: res/mipmap-hdpi-v4/ic_launcher.png
+SHA1-Digest: 0GPLI5clOisH/92tQ6Af+F3ISFM=
+
+Name: res/mipmap-hdpi-v4/ic_launcher_round.png
+SHA1-Digest: 3Wumcrg6zvzTz57Qb3MD0DPr2aM=
+
+Name: res/mipmap-mdpi-v4/ic_launcher.png
+SHA1-Digest: VbZayF+2BxfDoYjdttxKwjRN2Kc=
+
+Name: res/mipmap-mdpi-v4/ic_launcher_round.png
+SHA1-Digest: N7m4bKgiK4cW1OEmoVFQcnsI0vw=
+
+Name: res/mipmap-xhdpi-v4/ic_launcher.png
+SHA1-Digest: Vh4HGlhg/noLgnEYBPQl+8t1T8s=
+
+Name: res/mipmap-xhdpi-v4/ic_launcher_round.png
+SHA1-Digest: FTG6Gr7sqdlRiDD/s0IQqneT1Ek=
+
+Name: res/mipmap-xxhdpi-v4/ic_launcher.png
+SHA1-Digest: ZrYhU50BDH4ZvicBNdTbk26CxPU=
+
+Name: res/mipmap-xxhdpi-v4/ic_launcher_round.png
+SHA1-Digest: K32xrLjcvyrjNJrPpaqJjEg2wHs=
+
+Name: res/mipmap-xxxhdpi-v4/ic_launcher.png
+SHA1-Digest: fyEuR5AsiwCxRt1+sW6c3koFCGs=
+
+Name: res/mipmap-xxxhdpi-v4/ic_launcher_round.png
+SHA1-Digest: mjc6PAfUrqOBsyXa2Z6pU9H5LEU=
+
+Name: resources.arsc
+SHA1-Digest: w/wFMtW9Xz7KF9fLQVF+MTEfTGE=
+

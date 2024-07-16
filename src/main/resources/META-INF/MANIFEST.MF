@@ -1,0 +1,79 @@
+Manifest-Version: 1.0
+Built-By: Generated-by-ADT
+Created-By: Android Gradle 3.5.0
+
+Name: AndroidManifest.xml
+SHA1-Digest: F48EnlEC7NpsJJNGL9s74SyBRGc=
+
+Name: classes.dex
+SHA1-Digest: CvqJYeJvFrRGc+0rHfKIZeqWGzo=
+
+Name: res/drawable-xhdpi-v4/ball_blue.png
+SHA1-Digest: s1ESxmJPEvBEWlqyEMNsx47ikwg=
+
+Name: res/drawable-xhdpi-v4/bg_main.jpg
+SHA1-Digest: wk6rFTOze+5SkHuIfY9x3tG8eIQ=
+
+Name: res/drawable-xhdpi-v4/icon.png
+SHA1-Digest: J8jIKoy0q/08gPGaH1SrCUuXQio=
+
+Name: res/drawable/bg.xml
+SHA1-Digest: y+opq6Xh/PBZNrvxEk3CYX/gCEg=
+
+Name: res/drawable/btn_bg.xml
+SHA1-Digest: 5uADNRWqFrlWxU+8msDWmOmqOb0=
+
+Name: res/drawable/btn_off.xml
+SHA1-Digest: 6MkPz7qTa/sC3riMSZpZ5FoQoGw=
+
+Name: res/drawable/btn_on.xml
+SHA1-Digest: cUTf/CB0+LVxXTDGJqIMloBGBgw=
+
+Name: res/drawable/btn_text.xml
+SHA1-Digest: T0BaPu/ia8jBSypUqW/oGtGDaw4=
+
+Name: res/drawable/point.xml
+SHA1-Digest: 1kA+rFHjItA7oiPwpxsHvyWEQ2U=
+
+Name: res/drawable/thanh_setting.xml
+SHA1-Digest: Fif7fiDcnErdDZKd8JYuOAJZcwI=
+
+Name: res/layout/activity_main.xml
+SHA1-Digest: ggVY9/9QaamCQQpdwmat/kUtixI=
+
+Name: res/layout/setting_view.xml
+SHA1-Digest: pbx1deb7aQdubJXnsVwmmn9k3lA=
+
+Name: res/mipmap-hdpi-v4/ic_launcher.png
+SHA1-Digest: p49I/p+RFPMV3Hnv8pRS6T/9cJo=
+
+Name: res/mipmap-hdpi-v4/ic_launcher_round.png
+SHA1-Digest: +hY7uaZ0SGaW2pUcZStM7Ul+jE8=
+
+Name: res/mipmap-mdpi-v4/ic_launcher.png
+SHA1-Digest: robJ8v7+sKEvnjUJdTObxYDv2BM=
+
+Name: res/mipmap-mdpi-v4/ic_launcher_round.png
+SHA1-Digest: KHBd2jj0c8JXbh/93utt1mSIWp8=
+
+Name: res/mipmap-xhdpi-v4/ic_launcher.png
+SHA1-Digest: ysIv9ZSzuvbREfV0BfJ7SFRjpow=
+
+Name: res/mipmap-xhdpi-v4/ic_launcher_round.png
+SHA1-Digest: Lg16Gy6myo3Q1e1/UBCwX40aTqw=
+
+Name: res/mipmap-xxhdpi-v4/ic_launcher.png
+SHA1-Digest: QdwVTk//+RqysHCkzgrRXlBXG+o=
+
+Name: res/mipmap-xxhdpi-v4/ic_launcher_round.png
+SHA1-Digest: NHK7nZl8GXgKO2rq1IGAMw2n6Dg=
+
+Name: res/mipmap-xxxhdpi-v4/ic_launcher.png
+SHA1-Digest: Qpz8t8Fh5f1gyfFVpkNrpcePevc=
+
+Name: res/mipmap-xxxhdpi-v4/ic_launcher_round.png
+SHA1-Digest: cUYejuPcUusaHvs+R1Z77gGJ6+0=
+
+Name: resources.arsc
+SHA1-Digest: UzvH8ZEfZN0Wfl9m1b5pQwL2L+I=
+
